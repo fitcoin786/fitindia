@@ -1,6 +1,6 @@
 # 🚀 FitRudrah's Futurecoin (Fitcoin - FTC)
 
-![Futurecoin](https://futurecoin.in/favicon.ico)
+![Futurecoin](https://futurecoin.in/)
 
 ## 🌍 Official Website
 https://futurecoin.in
